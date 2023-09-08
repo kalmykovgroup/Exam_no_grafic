@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\vanya\source\repos\Exam 2\Game 2\Game.cpp(124,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game 2.vcxproj -> C:\Users\vanya\source\repos\Exam 2\x64\Debug\Game 2.exe
